@@ -1,4 +1,4 @@
-1993 - Yukihiro Matsumoto dreams up Ruby.
+      1993 - Yukihiro Matsumoto dreams up Ruby.
 1995 - Ruby 0.95 released.
 1996 - Ruby 1.0 released.
 1998 - Ruby 1.2 released.
@@ -17,3 +17,5 @@
 2020 - Ruby 3.0 released.
 2021 - Ruby 3.1 released.
 2022 - Ruby 3.2 released.
+The end.
+    
